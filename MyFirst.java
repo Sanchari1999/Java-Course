@@ -1,3 +1,5 @@
+import java.lang.*;
+
 package myfirst;
 
 public class MyFirst {
